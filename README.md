@@ -8,7 +8,7 @@
 - **Wide compatibility**: Convert between a vast range of file formats. Currently, almost every video, image, audio or document file type is supported. If you find one that isn't supported, submit to get it added.
 - **User-friendly**: With a simple drag and drop GUI interface, you don't need to touch the command-line to use it. Runs on the Web or as Windows app.
 
-**Check it out live on the internet at [howtoconvert.co](https://convertfilesoffline.com)**
+**Check it out live on the internet at [converfilesoffline.com](https://convertfilesoffline.com)**
 
 ## Install
 
@@ -33,4 +33,4 @@ If you want to support this project directly, currently the best way is by purch
 
 ---
 
-How to Convert is made with ❤️ by Jake Manger. I hope it's useful to you.
+Convert Files is made with ❤️. I hope it's useful to you.
