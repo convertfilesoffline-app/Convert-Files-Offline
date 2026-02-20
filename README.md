@@ -1,4 +1,4 @@
-![image](/banner_image.png)
+![image](/banner_img.png)
 
 # Convert Files Offline
 
