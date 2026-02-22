@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 =======
 ![image](/banner_img.png)
 
@@ -11,6 +11,8 @@
 - **User-friendly**: With a simple drag and drop GUI interface, you don't need to touch the command-line to use it. Runs on the Web or as Windows app.
 
 **Check it out live on the internet at [converfilesoffline.com](https://convertfilesoffline.com)**
+
+![gif](/banner_gif.gif)
 
 ## Install
 
@@ -36,4 +38,4 @@ If you want to support this project directly, currently the best way is by purch
 ---
 
 Convert Files is made with ❤️. I hope it's useful to you.
->>>>>>> c297b29ae28c4066a47dc8be0e1db26aef9ac2cc
+
